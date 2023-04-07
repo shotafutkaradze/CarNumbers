@@ -1,0 +1,15 @@
+C:\Users\Shota\Desktop\CarAPI\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Shota\Desktop\CarAPI\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Shota\Desktop\CarAPI\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Shota\Desktop\CarAPI\Application\bin\Debug\net6.0\Doamin.dll
+C:\Users\Shota\Desktop\CarAPI\Application\bin\Debug\net6.0\Doamin.pdb
+C:\Users\Shota\Desktop\CarAPI\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Shota\Desktop\CarAPI\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shota\Desktop\CarAPI\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Shota\Desktop\CarAPI\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Shota\Desktop\CarAPI\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Shota\Desktop\CarAPI\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\Shota\Desktop\CarAPI\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Shota\Desktop\CarAPI\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Shota\Desktop\CarAPI\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Shota\Desktop\CarAPI\Application\obj\Debug\net6.0\ref\Application.dll

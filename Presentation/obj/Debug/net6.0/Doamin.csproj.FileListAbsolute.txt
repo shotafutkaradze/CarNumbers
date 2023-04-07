@@ -1,0 +1,12 @@
+C:\Users\Shota\Desktop\CarAPI\Presentation\bin\Debug\net6.0\Doamin.deps.json
+C:\Users\Shota\Desktop\CarAPI\Presentation\bin\Debug\net6.0\Doamin.dll
+C:\Users\Shota\Desktop\CarAPI\Presentation\bin\Debug\net6.0\Doamin.pdb
+C:\Users\Shota\Desktop\CarAPI\Presentation\obj\Debug\net6.0\Doamin.csproj.AssemblyReference.cache
+C:\Users\Shota\Desktop\CarAPI\Presentation\obj\Debug\net6.0\Doamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shota\Desktop\CarAPI\Presentation\obj\Debug\net6.0\Doamin.AssemblyInfoInputs.cache
+C:\Users\Shota\Desktop\CarAPI\Presentation\obj\Debug\net6.0\Doamin.AssemblyInfo.cs
+C:\Users\Shota\Desktop\CarAPI\Presentation\obj\Debug\net6.0\Doamin.csproj.CoreCompileInputs.cache
+C:\Users\Shota\Desktop\CarAPI\Presentation\obj\Debug\net6.0\Doamin.dll
+C:\Users\Shota\Desktop\CarAPI\Presentation\obj\Debug\net6.0\refint\Doamin.dll
+C:\Users\Shota\Desktop\CarAPI\Presentation\obj\Debug\net6.0\Doamin.pdb
+C:\Users\Shota\Desktop\CarAPI\Presentation\obj\Debug\net6.0\ref\Doamin.dll
